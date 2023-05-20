@@ -1,1 +1,1 @@
-// Extract State Logic to Redux
+Extract State Logic to Redux
