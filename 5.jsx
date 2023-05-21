@@ -1,11 +1,11 @@
-// Map State to Props
+// // Map State to Props
 
-const state = [];
+// const state = [];
 
-// Change code below this line
+// // Change code below this line
 
-const mapStateToProps = (state) => {
-return {
-  messages: state
-}
-}
+// const mapStateToProps = (state) => {
+// return {
+//   messages: state
+// }
+// }
